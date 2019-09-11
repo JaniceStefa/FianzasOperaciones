@@ -1,0 +1,41 @@
+Modelo de base de datos
+
+
+empresa
+	ruc
+	nombre/razon social
+	direccion
+	telefono --
+	email
+	representante legal /contacto
+	
+	estado/interes - --- si-no-esperando respuesta/ DETALLE
+	
+
+registro de visitas /llamadas
+	fecha ----
+	tipo : llamada - visitas - correo - whatsapp
+
+registro de documentacion 
+	documento
+	entregado/no entregado
+	fecha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+	

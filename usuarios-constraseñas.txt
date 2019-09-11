@@ -1,0 +1,12 @@
+	usuarios:
+
+
+OPERACIONES
+adminOperaciones	1234
+userAyacucho		1234
+userEltambo		1234
+
+
+RENOVACIONES
+usergeneral	1234
+admingeneral	1234

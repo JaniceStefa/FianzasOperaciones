@@ -1,0 +1,20 @@
+/// fecha de documentacion
+EVALUACION
+* Fecha INGRESO
+* Aseguradora (fogapi, insur)
+* 
+
+EN ESTADO --- EN EVALUACION-- BOTON
+		
+
+
+-- APROBADO
+-- RECHAZADO
+
+
+TRAMITE - EVALUACION
+----------- EMPRESA
+0 - POR INICIAR
+1 - EN PROCESO
+2 - EN EVALUACION 
+3 - TERMINADO(aprobado / rechazado)
